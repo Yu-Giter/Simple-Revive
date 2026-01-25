@@ -1,2 +1,0 @@
-# Example_For_ScriptAPI
-二次会用ハードコアの蘇生システムなど
