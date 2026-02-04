@@ -32,5 +32,4 @@ system.runInterval(() => {
     }
 }, 1);
 
-// entityDie と entityHitEntity の既存の処理は不要であれば削除できます。
 // 必要に応じてここに追加イベント処理を実装してください。
