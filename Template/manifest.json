@@ -4,8 +4,8 @@
       "name": "Simple-Revive",
       "description": "期間限定ハードコアサーバー用墓/蘇生アドオン",
       "uuid": "94707d2b-30aa-4757-bd1c-8205d4010961",
-      "version": [0, 1, 0],
-      "min_engine_version": [1, 20, 0]
+      "version": [1, 21, 130],
+      "min_engine_version": [1, 21, 130]
     },
     "modules": [
       {
@@ -13,7 +13,7 @@
         "language": "javascript",
         "uuid": "16a0de5f-0ab7-4e5c-88c0-860483cb443e",
         "entry": "scripts/main.js",
-        "version": [0, 1, 0]
+        "version": [1, 21, 130]
       }
     ],
     "capabilities": ["script_eval"],
